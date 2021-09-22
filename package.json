@@ -2,7 +2,9 @@
   "name": "dprint-arm64-compat",
   "version": "0.17.1",
   "description": "dprint wrapper that allows arm64 compatibility",
-  "bin": "bin.js",
+  "bin": {
+    "dprint": "bin.js"
+  },
   "scripts": {
     "postinstall": "node ./install.js"
   },
