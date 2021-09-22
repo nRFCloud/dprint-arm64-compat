@@ -1,0 +1,8 @@
+{
+  "version": "0.17.1",
+  "checksums": {
+    "windows": "cfbdfefcdc1955cb563b9a09631bb42273f78c43417c4ae9f960da2f609e944d",
+    "linux": "2cb7a12d5d66bbaccbe544036feaefe3e0844ea93144b416bef3bcde072c1c89",
+    "mac": "f7521a86cdf708c8cdd8404cbb184945b78e338cbfccabc14659dbc199e02c2f"
+  }
+}

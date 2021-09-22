@@ -1,7 +1,19 @@
 {
   "name": "dprint-arm64-compat",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "John Conley <john.conley@nordicsemi.no>",
-  "license": "MIT"
+  "version": "0.17.1",
+  "description": "dprint wrapper that allows arm64 compatibility",
+  "bin": "bin.js",
+  "scripts": {
+    "postinstall": "node ./install.js"
+  },
+  "keywords": [
+    "code",
+    "formatter"
+  ],
+  "author": "John Conley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dprint/dprint/issues"
+  },
+  "homepage": "https://github.com/dprint/dprint#readme"
 }
